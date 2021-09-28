@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [cijie<dot>xia@mail<dot>utoronto<dot>ca]
+* Email: [cijie DOT xia AT mail DOT utoronto DOT ca]
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
