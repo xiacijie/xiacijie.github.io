@@ -10,7 +10,7 @@ Hi! My name is Cijie Xia. I am a PhD student at the University of Toronto.
 
 ## Research Interest
 
-Programming Languages. Program Verifications and Analysis.
+Programming Languages. Program Verification and Analysis.
 
 <!-- ## Publications
 
