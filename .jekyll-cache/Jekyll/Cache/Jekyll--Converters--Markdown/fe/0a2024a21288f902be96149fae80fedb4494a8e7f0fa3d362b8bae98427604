@@ -1,16 +1,12 @@
----
-layout: default
----
-
-## About Me
+I"<h2 id="about-me">About Me</h2>
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 
-Hi! My name is Cijie Xia. I am a PhD student at the University of Toronto.
+<p>Hi! My name is Cijie Xia. I am a PhD student at the University of Toronto.</p>
 
-## Research Interest
+<h2 id="research-interest">Research Interest</h2>
 
-Programming Languages. Program Verifications and Analysis.
+<p>Programming Languages. Program Verifications and Analysis.</p>
 
 <!-- ## Publications
 
@@ -41,3 +37,4 @@ Here is a blockquote
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+:ET
